@@ -17,3 +17,16 @@ h1{
     color: blueviolet;
     text-align: center;
 }
+.piros{
+    background-color: red;
+}
+
+#buttondiv{
+    margin-top: 30px;
+    text-align: center;
+}
+button{
+    padding: 20px 30px;
+    font-size: 20pt;
+    background-color: beige;
+}
