@@ -49,4 +49,4 @@ function main(){
     }
     mehet.addEventListener('click', mehetajatek)
 }
-main();
+main(); 
