@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(87, 87, 87);
+}
+main{
+    display: grid;
+    grid-template-columns: repeat(10,50px);
+    grid-template-rows: repeat(10,50px);
+    gap:20px;
+    justify-content: center;
+}
+main div{
+    background-color: gray;
+    border-radius: 5px;
+    box-shadow: 4px 4px 4px black;
+}
+h1{
+    color: blueviolet;
+    text-align: center;
+}
